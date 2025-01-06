@@ -1,0 +1,35 @@
+Here's a quantitative analysis of the provided queries and results:
+
+1. Unique Cities Where Customers Are Located
+Insight: There are multiple unique cities where customers are located, such as Franca, São Paulo, and Campinas. This diversity indicates a wide geographic distribution of the customer base.
+2. Orders Placed in 2017
+Insight: A total of 45,101 orders were placed in 2017. This serves as a benchmark to evaluate growth in other years.
+3. Total Sales Per Category
+Insight: Sales are aggregated by product category. For instance, categories like "Bed Table Bath" and "Health Beauty" have significant contributions. These categories could be prioritized for promotions and inventory management.
+4. Percentage of Orders Paid in Installments
+Insight: 99.9981% of orders were paid in installments, showing that installment payments are the dominant mode of transaction. This is critical for financial and credit policies.
+5. Customer Distribution by State
+Insight: Customer distribution across states is uneven. A bar chart visualizes this, helping identify regions with high customer concentration, which can guide regional marketing strategies.
+6. Orders Per Month in 2018
+Insight: Orders are concentrated in specific months in 2018, with a bar chart showing the distribution. Months like October and November might show higher activity due to seasonal sales or holidays.
+7. Average Products Per Order by Customer City
+Insight: Cities like Padre Carvalho have the highest average products per order (7.00), suggesting differences in purchasing behavior. Targeted marketing could encourage similar behaviors in lower-performing cities.
+8. Revenue Contribution by Product Category
+Insight: The top contributing categories include:
+Bed Table Bath: 10.70%.
+Health Beauty: 10.35%.
+Computer Accessories: 9.90%. This highlights product categories that drive revenue.
+9. Correlation Between Product Price and Order Count
+Insight: The correlation between product price and the number of times a product is purchased is -0.106, indicating a weak and slightly negative relationship. This suggests that pricing doesn't strongly influence purchase frequency.
+10. Total Revenue Per Seller and Rankings
+Insight: Sellers are ranked by their revenue contributions. This helps identify top performers and low performers, providing guidance for partnership evaluations and seller incentives.
+11. Moving Average of Order Values
+Insight: Moving averages of order values provide insights into customer spending trends over time. This can identify loyal customers with consistent spending patterns.
+12. Cumulative Sales Per Month
+Insight: Cumulative sales data (e.g., 2017 January: $138,488.04, 2018 January: $1,115,004.18) show growth trends and seasonal impacts on sales. Such trends are critical for forecasting.
+13. Year-over-Year Growth Rate
+Insight: The YoY growth from 2016 to 2017 was 12,112.70%, while from 2017 to 2018, it was 20.00%. This indicates explosive initial growth, which stabilized later.
+14. Customer Retention Rate
+Insight: Retention rates were calculated based on purchases within 6 months of the first order. However, the query's output is None, indicating potential data issues or a lack of repeat purchases in the specified period.
+15. Top Customers by Spending Per Year
+Insight: The top 3 customers each year are identified, helping to recognize VIP customers. These insights could inform personalized loyalty programs.
